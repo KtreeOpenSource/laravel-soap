@@ -1,5 +1,5 @@
 {
-    "name": "artisaninweb/laravel-soap",
+    "name": "ktree/laravel-soap",
     "description": "A SoapClient wrapper integration for Laravel",
     "keywords": ["laravel", "soap", "client", "wrapper"],
     "license": "MIT",
